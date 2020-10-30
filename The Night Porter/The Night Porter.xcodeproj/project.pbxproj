@@ -11,7 +11,6 @@
 		D4F5FBFD254B914C00F58F20 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F5FBFC254B914C00F58F20 /* ContentView.swift */; };
 		D4F5FBFF254B914D00F58F20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4F5FBFE254B914D00F58F20 /* Assets.xcassets */; };
 		D4F5FC02254B914D00F58F20 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4F5FC01254B914D00F58F20 /* Preview Assets.xcassets */; };
-		D4F5FC0C254B997000F58F20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4F5FC0B254B997000F58F20 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +20,6 @@
 		D4F5FBFE254B914D00F58F20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4F5FC01254B914D00F58F20 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D4F5FC03254B914D00F58F20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D4F5FC0B254B997000F58F20 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +57,6 @@
 				D4F5FBFC254B914C00F58F20 /* ContentView.swift */,
 				D4F5FBFE254B914D00F58F20 /* Assets.xcassets */,
 				D4F5FC03254B914D00F58F20 /* Info.plist */,
-				D4F5FC0B254B997000F58F20 /* Main.storyboard */,
 				D4F5FC00254B914D00F58F20 /* Preview Content */,
 			);
 			path = "The Night Porter";
@@ -137,7 +134,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4F5FC0C254B997000F58F20 /* Main.storyboard in Resources */,
 				D4F5FC02254B914D00F58F20 /* Preview Assets.xcassets in Resources */,
 				D4F5FBFF254B914D00F58F20 /* Assets.xcassets in Resources */,
 			);
